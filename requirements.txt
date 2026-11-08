@@ -1,0 +1,7 @@
+vkbottle==4.3.16
+aiomysql==0.2.0
+PyMySQL==1.1.1
+cryptography==42.0.8
+python-dotenv==1.0.1
+aiohttp==3.9.5
+loguru==0.7.2
